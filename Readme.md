@@ -17,7 +17,7 @@ Just looking to use the addin?  Look for an installer on our [Releases](https://
 ## Using the AddIn
 
 ### Resizing and Aligning
-Once installed, the addin will create a new tab in the Visio Ribbon toolbar named "Utilities".  The first 3 items will be in a group named "Sizer".  The next 6 will be in a group named "Aligner".  All 9 if these items will be grayed out until you have at least 2 objects selected in your Visio diagram.
+Once installed, the addin will create a new tab in the Visio Ribbon toolbar named "Utilities".  The first 3 items will be in a group named "Sizer".  The next 6 will be in a group named "Aligner".  All 9 of these items will be grayed out until you have at least 2 objects selected in your Visio diagram.
 
 After you select at least 2 objects in your Visio diagram, one of those items will be the "primary" object.  Visio will showcase this with a heavier outline than the other objects.  The 9 toolbar items will then be enabled, and will operate using this primary object as its reference point.  In other words, if you click "Resize Height", all currently selected objects will be resized to be the same height as the primary object.
 
