@@ -1,0 +1,5 @@
+**/bin
+**/obj
+.vs/
+Installer/Release
+Installer/Debug
