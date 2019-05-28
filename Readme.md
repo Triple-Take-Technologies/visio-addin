@@ -12,7 +12,7 @@ This addin surfaces 3 main feature groups.
 Clone the repo, open in Visual Studio 2017 (2019 probably works as well, but we haven't tried it), and build.  **Note that you may need to install support for building Office applications as such support is not a mandatory part of the Visual Studio installation.**  Once the addin is built, it should automatically be registered with Visio - just launch Visio and look for the new "Utilities" tab once you have a drawing open.
 
 ## Installing the AddIn Without Building
-Just looking to use the addin?  Look for an installer on our [Releases](/releases) page.
+Just looking to use the addin?  Look for an installer on our [Releases](https://github.com/Triple-Take-Technologies/visio-addin/releases) page.
 
 ## Using the AddIn
 
